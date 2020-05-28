@@ -4,12 +4,12 @@
 
 ## Pojmovi
 
-* [Šta je HR](pojmovi/untitled/README.md)
-  * [Regruter - Recruiter](pojmovi/untitled/regruter.md)
-  * [HR Asistent](pojmovi/untitled/asistent.md)
-  * [HR Generalista](pojmovi/untitled/generalist.md)
-  * [HR Specijalista](pojmovi/untitled/hr-specijalista.md)
-  * [HR Manager](pojmovi/untitled/hr-manager.md)
+* [Šta je HR](pojmovi/ohr/README.md)
+  * [Regruter - Recruiter](pojmovi/ohr/regruter.md)
+  * [HR Asistent](pojmovi/ohr/asistent.md)
+  * [HR Generalista](pojmovi/ohr/generalist.md)
+  * [HR Specijalista](pojmovi/ohr/hr-specijalista.md)
+  * [HR Manager](pojmovi/ohr/hr-manager.md)
 
 ## Poslovanje
 
