@@ -1,0 +1,2 @@
+# Slika kompanije
+

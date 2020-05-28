@@ -1,0 +1,2 @@
+# Diskriminatorna selekcija
+

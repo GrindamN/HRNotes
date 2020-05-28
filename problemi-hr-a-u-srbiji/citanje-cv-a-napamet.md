@@ -1,0 +1,2 @@
+# Čitanje CV-a napamet
+
