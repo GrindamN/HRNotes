@@ -13,7 +13,7 @@
 
 ## Poslovanje
 
-* [ATS](poslovanje/ats/README.md)
+* [ATS - Applicant Tracking System](poslovanje/ats/README.md)
   * [Izbor sistema](poslovanje/ats/izbor-sistema.md)
   * [Pravilno korišćenje](poslovanje/ats/pravilno-koriscenje.md)
   * [Platforme za oglašavanje](poslovanje/ats/platforme-za-oglasavanje.md)
