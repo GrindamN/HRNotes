@@ -1,2 +1,0 @@
-# Platforme za oglašavanje
-

@@ -16,7 +16,7 @@
 * [ATS - Applicant Tracking System](poslovanje/ats/README.md)
   * [Izbor sistema](poslovanje/ats/izbor-sistema.md)
   * [Pravilno korišćenje](poslovanje/ats/pravilno-koriscenje.md)
-  * [Platforme za oglašavanje](poslovanje/ats/platforme-za-oglasavanje.md)
+  * [Platforme za oglašavanje i pisanje oglasa](poslovanje/ats/platforme-za-oglasavanje-oglasi.md)
 * [Korespodencija](korespodencija/README.md)
   * [Email](korespodencija/email.md)
   * [LinkedIn](korespodencija/linkedin.md)
