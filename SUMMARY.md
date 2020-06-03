@@ -76,5 +76,5 @@
 * [Diskriminatorna selekcija](problemi-hr-a-u-srbiji/diskriminatorna-selekcija/README.md)
   * [Selekcija tehničkog kadra](problemi-hr-a-u-srbiji/diskriminatorna-selekcija/selekcija-tehnickog-kadra.md)
   * [Selekcija HR kadra](problemi-hr-a-u-srbiji/diskriminatorna-selekcija/selekcija-hr-kadra.md)
-* [Nerazumevanje sektora u kome se kompanija nalazi](nerazumevanje-sektora-u-kome-se-kompanija-nalazi.md)
+* [Nerazumevanje tehnologije koju kompanija koristi odnosno sektora kao takvog](nerazumevanje-sektora-u-kome-se-kompanija-nalazi.md)
 
