@@ -38,7 +38,6 @@
     * [Zakon o penzijskom i invalidskom osiguranju](procedure/zakoni/zakon-o-penzijskom-i-invalidskom-osiguranju.md)
     * [Zakon o obaveznom socijalnom osiguranju](procedure/zakoni/zakon-o-obaveznom-socijalnom-osiguranju.md)
     * [Zakon o osiguranju za slučaj nezaposlenosti](procedure/zakoni/zakon-o-osiguranju-za-slucaj-nezaposlenosti.md)
-  * [APR](procedure/apr.md)
   * [Pravo](procedure/pravo.md)
 * [Funkcionisanje HR-a](funkcionisanje-hr-a/README.md)
   * [Neutralnost](funkcionisanje-hr-a/neutralnost.md)
