@@ -1,6 +1,6 @@
 # Zakon o radu
 
-Primarni zakon u pogledu zapošljavanja i samog rada. Na ovom mestu biće izdvojene najvažnije odredbe ovog zakona. 
+Primarni zakon u pogledu zapošljavanja i samog rada. Na ovom mestu biće izdvojene najvažnije odredbe ovog zakona sa kratkim komentarom šta ista znači i kako se primenjuje. Sve odredbe se u izvornom obliku mogu pročitati u samom Zakonu. 
 
 Član 15
 
