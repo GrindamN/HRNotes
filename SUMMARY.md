@@ -36,7 +36,6 @@
   * [Zakoni](procedure/zakoni/README.md)
     * [Zakon o radu](procedure/zakoni/zakon-o-radu.md)
     * [Zakon o doprinosima za obavezno socijalno osiguranje](procedure/zakoni/zakon-o-obaveznom-socijalnom-osiguranju.md)
-    * [Zakon o osiguranju za slučaj nezaposlenosti](procedure/zakoni/zakon-o-osiguranju-za-slucaj-nezaposlenosti.md)
     * [Zakon o penzijskom i invalidskom osiguranju](procedure/zakoni/zakon-o-penzijskom-i-invalidskom-osiguranju.md)
   * [Pravo](procedure/pravo.md)
 * [Funkcionisanje HR-a](funkcionisanje-hr-a/README.md)

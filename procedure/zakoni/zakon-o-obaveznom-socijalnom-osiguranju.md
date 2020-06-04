@@ -12,3 +12,5 @@ Stope po kojima se obračunavaju i plaćaju doprinosi jesu:
 
 
 
+
+
