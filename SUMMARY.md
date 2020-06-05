@@ -45,7 +45,6 @@
 ## Rad sa zaposlenima
 
 * [Komunikacija](rad-sa-zaposlenima/komunikacija/README.md)
-  * [Uklopljenost](rad-sa-zaposlenima/komunikacija/uklopljenost.md)
   * [Prevazilaženja sukoba](rad-sa-zaposlenima/komunikacija/prevazilazenja-sukoba.md)
   * [Zarada, benefiti, ugovor i administrativne informacije](rad-sa-zaposlenima/komunikacija/plata-benefiti-ugovor-i-administrativne-informacije.md)
   * [Razgovor i ostavljanje prostora zaposlenom u ličnim teškim situacijama](rad-sa-zaposlenima/komunikacija/razgovor-i-ostavljanje-prostora-zaposlenom-u-licnim-teskim-situacijama.md)
