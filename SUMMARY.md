@@ -60,7 +60,6 @@
 
 ## Lično usavršavanje
 
-* [Besplatni resursi](licno-usavrsavanje/besplatni-resursi.md)
 * [Tematski događaji](licno-usavrsavanje/tematski-dogadaji.md)
 * [Razmena iskustva sa drugim HR-ovima](licno-usavrsavanje/razmena-iskustva-sa-drugim-hr-ovima.md)
 
