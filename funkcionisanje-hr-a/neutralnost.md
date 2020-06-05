@@ -6,3 +6,7 @@ Gajenje pozitivne atmosfere može da svaki problem reši pre nego što se rašit
 
 Odluke moraju biti donete na osnovu logičnih razloga tako da iste ne bude sumnju u pristrasnost HR-a.
 
+Ukoliko se nađete u situaciji da ste sa nekim od zaposlenih povezani usled neki okolnosti van posla u svakoj situaciji morate da odlučujete na poslu u interesu posla. 
+
+DRžanje do neutralnosti i objektivnosti daje HR-u na integritetu. 
+
