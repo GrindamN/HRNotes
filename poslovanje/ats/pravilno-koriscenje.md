@@ -1,5 +1,7 @@
 # Pravilno korišćenje
 
+![](../../.gitbook/assets/hrcartoonjun2014-rev-624x499.jpg)
+
 Pod pravilnim korišćenjem ATS podrazumeva se pre svega nekoliko stavki.
 
 Naime, ukoliko u procesu selekcije postoji više krugova potrebno je da se pravilno organizuje i rasporedi tim na način kako je organizovan proces selekcije od strane HR-a. U ovom slučaju, simulacija procesa selekcije i rad sa imom koji će biti zadužen u procesu testiranja kadnidata je nešto što se podrazumeva kako bi se izbegle neprijatne situacije. 

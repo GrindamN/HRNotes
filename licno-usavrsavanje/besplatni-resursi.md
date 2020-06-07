@@ -1,2 +1,4 @@
 # Besplatni resursi
 
+Ova stranica posvećena je besplatnim resursima u oblasti HR-a ali i drugim koji mogu biti od koristi a čiji je generalni cilj da povećaju produktivnost i podginu nivo obavljanja posla.
+
