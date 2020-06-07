@@ -10,6 +10,8 @@ Znanje koje je stečeno tokom rada u prethodnim ulogama, izražava se u izradi d
 
 Pored toga što mora da poseduje znanje, HR Manager mora da takođe ima lidersku sposobnost kako bi ostalima preneo na što jasniji način dalje korake za svaku godinu u pogledu zapošljavanja, vođenje brige o zaposlenima i administrativnim koracima.  
 
+Ukoliko je HR diplomirani psiholog sa završenom psihološkom obukom u Institutu za psihologiju može sastavljati i naručivati testove licnosti i druge testove koje se koriste za ispitivanje kandidata.
+
 HR Manager može da obavlja prethodne poslove sam, ali je ključ uspeh leži u timskom duhu i smanjivanju pritiska sa jedne osobe kako bi rad svih bio što uspešniji.  
 
 * Pri izradi akcije i procesa traganja sa kandidatima HRM je okrenut regruteru sa kojim redovno komunicira i vodi računa o tome kako teće proces zapošljavanja. 
