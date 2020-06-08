@@ -6,5 +6,5 @@ Prisustvo određenim događajima zahteva članarinu kompanije odnosno pojedinca 
 
 Događaji su korisni jer služe da naučite i pitate stručnjake sve ono što do sada možda niste znali ili što možda već znate ali ne znate kako da to podignete na sledeći nivo. Pored znanja, postavljanja pitanja, interakcije sa učesnicima, ovo je odlična prilika za networking naročito kada je reč o događajima koji se organizuju uživo. 
 
-Kao što kod tematskih događaja namenjenih zapošljavanju možete doći do kandidata tehničke struke ili kandidata za HR tim, tako i kod ovih događaja možete doći do potencijalnih kandidata ili do novih konekcija koje vam mogu koristitiu vašem ličnom usavršavanju. Usavršavanje nikad ne prestaje jer industrije nisu statična več pre svega dinamična kategorija. 
+Kao što kod tematskih događaja namenjenih zapošljavanju možete doći do kandidata tehničke struke ili kandidata za HR tim, tako i kod ovih događaja možete doći do potencijalnih kandidata ili do novih konekcija koje vam mogu koristiti u vašem ličnom usavršavanju. Usavršavanje nikad ne prestaje jer industrije nisu statična več pre svega dinamična kategorija. 
 

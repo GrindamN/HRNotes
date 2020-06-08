@@ -8,5 +8,7 @@ Potrebno je maksimalno izbeći diskriminatornu selekciju tehničkog kadra ukolik
 
 Kada kompanija ima remote poziciju i za koju se radi intervju potrebno je skrenuti timu pažnju da je takav zaposleni isti kao i zaposleni koji se nalazi u sedištu firmu i da u njegovoj selekciji i radu ne treba da postoji diskriminacija. 
 
+Iako HR može da upadne u ovu zamku isto tako mogu i svi drugi zaposleni. Potrebno je komunicirati sa zaposlenim o procesu selekcije tehničkog kadra i tražiti njihovo mišljenje o stvarima koje su ključne, te postizanje zajedničkog cilja; smanjenje diskriminacije prilikom selekcije. 
+
 
 

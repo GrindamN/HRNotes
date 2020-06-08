@@ -76,3 +76,7 @@
   * [Selekcija HR kadra](problemi-hr-a-u-srbiji/diskriminatorna-selekcija/selekcija-hr-kadra.md)
 * [Nerazumevanje tehnologije koju kompanija koristi odnosno sektora kao takvog](nerazumevanje-sektora-u-kome-se-kompanija-nalazi.md)
 
+## FAQ
+
+* [FAQ](faq/faq.md)
+

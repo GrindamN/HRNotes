@@ -14,3 +14,7 @@ Sa druge strane pravnik će insistirati na preteranom formalitetu i regulativi n
 
 Bez ozbira na profil, posedoanje kompleksa o nepogrešivosti, stvara barijeru koju je jako teško preskočiti.
 
+Niko ne želi da radi u atmosferi u kojoj ima osećaj da ga neko posmatra sa određene distance, smatrajući svoj posao važniji od posla druge osobe čije je doživljaj da je nešto poput mesije i da će kompanija bez nje propasti. 
+
+Jednakost u obraćanju je nešto što je potrebno negovati bez obzira o kome je reč isključeno od svake doze arogancije.
+

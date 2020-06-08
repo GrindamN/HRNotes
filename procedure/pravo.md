@@ -8,13 +8,14 @@ U mnogim situacijama kao npr. dužina otkaznog roka kada dođe do prekida radnog
 
 Pravo je prisutno naročito kod izrade sledećih akata:
 
-* Ugovor o radu
-* Punomoćje
-* Rešenje o godišnjem odmoru
-* Rešenje o suspenziji
-* Opomena
-* Otkaz 
-* Sporazumni raskid radnog odnosa - Otkaz
+* Ugovora o radu
+* Aneksa ugovora o radu
+* Punomoćja
+* Rešenja o godišnjem odmoru
+* Rešenja o suspenziji
+* Opomene
+* Otkaza 
+* Sporazumnog prestanka radnog odnosa - Otkaz
 
 Mnogi od ovih akata imaju svoje pelcere. Naravno da bi se pelcer primenio potrebno je razumevanje njegove suštine. Kod određene vrste ugovora kao što su ugovori o zakupu prostora ili kupoprodaji veće količine tehnike, potrebno je angažovati advokata imajući u vidu vrednost takvih ugovora. Sa druge strane ukoliko imate pravnika u svom timu veći deo posla oko izrade pravnih akata, tumačenja zakona i sličnog \(prevashodno kada isti ima iskustvo u privrednom i radnom pravu\) može završiti bez kontaktiranje advokata. Na tajn način, kompanija će uštediti novac a istovremeno angažovati advokata kod većih pravnih poslova i izrade ozbiljnijih pravnih akata poput menadžerskih ugovora, promene odnosa vlasništva u kompaniji itd. 
 

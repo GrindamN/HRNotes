@@ -12,7 +12,7 @@ Tamo gde se hrana grupno naručuje potrebno je objasniti zaposlenom kako sistem 
 
 Tamo gde postoji opcija privatnog osiguranja/teretane obaveštava se zaposleni da će biti prijavljen na privatno osiguranje. Kod osiguranja važno je navesti da i članovi njegove porodice imaju pravo na korišćenje privatnog osiguranja, a nije ni loše uputiti zaposlenog sa informacijama o kojoj je osiguravajućem društvu reč kako bi se zaposleni upoznao bolje sa njihovom trenutnom ponudom. 
 
-Slika govori više od 1000 reči - Korisno je slikati svakog zaposlenog ukoliko se slika zaposlenih pojavljuje na sajtu kompanije a i istovremeno kako bi bili lako prepoznatljivi u korespodenciji. 
+Slika govori više od 1000 reči - Korisno je slikati svakog zaposlenog ukoliko se slika zaposlenih pojavljuje na sajtu kompanije a i istovremeno kako bi bili lako prepoznatljivi u korespodenciji ako kompanija koristi Slack ili slični metod komunikacije. 
 
  
 
