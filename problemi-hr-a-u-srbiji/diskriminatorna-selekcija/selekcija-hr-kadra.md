@@ -1,6 +1,6 @@
 # Selekcija HR kadra
 
-Svaki HR bi u idealnim uslovima trebao da ima: Psihologa, Pravnika, Menadžera
+Svaki HR bi u idealnim uslovima trebao da ima: Psihologa, Pravnika, Menadžera.
 
 Naravno, stvarnost je često drugačija od idealnih uslova i čest je slučaj da su timovi sastavljeni od samo jedne od navedene 3 struke.
 
