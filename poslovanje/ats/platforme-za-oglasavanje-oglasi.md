@@ -2,7 +2,7 @@
 
 Ukoliko postoji potreba za novo radno mesto u okviru vaše kompanije prva stvar koju želite da uradite jeste da postavite oglas, o potrebnoj poziciji na nekoj od platformi za oglašavanje. U zavisnosti od tipa posla kojim se kompanija bavi postoji više različitih platformi poput tradicionalnih oglasa kao što su Halo Oglasi ili platforme kao što su Infostud koje su više okrenute različitim tipovima poslova. Naravno LinkedIn takođe ima funkciju oglašavanja koja ukoliko se pametno iskoristi može povećati broj potencijalnih prijava. 
 
-Kod korišćenja bilo kojih od ovih platformapotrebno je da se upoznate sa funkcionalnošću. Pre samog oglašavanja, a ukoliko je reč o platformi poput Infostuda i sličnih, pokušajte da istražite kako ista funkcioniše, pogledate listu često postavljenih pitanja. Na taj način uštedićete dosta vremena i aktivno moći da upravljate platformom. 
+Kod korišćenja bilo kojih od ovih platforma potrebno je da se upoznate sa funkcionalnošću. Pre samog oglašavanja, a ukoliko je reč o platformi poput Infostuda i sličnih, pokušajte da istražite kako ista funkcioniše, pogledate listu često postavljenih pitanja. Na taj način uštedićete dosta vremena i aktivno moći da upravljate platformom. 
 
 Dalje, definšite budžet. Kada je budžet definisan raspodelite ga ukoliko planirate da vršite oglašavanje na platformama i u tradicionalnim medijama i na drugim mestima. 
 
