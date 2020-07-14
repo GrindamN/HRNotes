@@ -17,6 +17,9 @@
   * [Izbor sistema](poslovanje/ats/izbor-sistema.md)
   * [Pravilno korišćenje](poslovanje/ats/pravilno-koriscenje.md)
   * [Platforme za oglašavanje i pisanje oglasa](poslovanje/ats/platforme-za-oglasavanje-oglasi.md)
+
+---
+
 * [Korespodencija](korespodencija/README.md)
   * [Email](korespodencija/email.md)
   * [LinkedIn](korespodencija/linkedin.md)
@@ -38,6 +41,7 @@
     * [Zakon o doprinosima za obavezno socijalno osiguranje](procedure/zakoni/zakon-o-obaveznom-socijalnom-osiguranju.md)
     * [Zakon o penzijskom i invalidskom osiguranju](procedure/zakoni/zakon-o-penzijskom-i-invalidskom-osiguranju.md)
   * [Pravo](procedure/pravo.md)
+* [Preporuka](preporuka.md)
 * [Funkcionisanje HR-a](funkcionisanje-hr-a/README.md)
   * [Neutralnost](funkcionisanje-hr-a/neutralnost.md)
   * [Poznavanje terminologije i sektora u kome se radi](funkcionisanje-hr-a/poznavanje-terminologije-i-sektora-u-kome-se-radi.md)
@@ -74,6 +78,9 @@
 * [Diskriminatorna selekcija](problemi-hr-a-u-srbiji/diskriminatorna-selekcija/README.md)
   * [Selekcija tehničkog kadra](problemi-hr-a-u-srbiji/diskriminatorna-selekcija/selekcija-tehnickog-kadra.md)
   * [Selekcija HR kadra](problemi-hr-a-u-srbiji/diskriminatorna-selekcija/selekcija-hr-kadra.md)
+
+---
+
 * [Nerazumevanje tehnologije koju kompanija koristi odnosno sektora kao takvog](nerazumevanje-sektora-u-kome-se-kompanija-nalazi.md)
 
 ## FAQ
