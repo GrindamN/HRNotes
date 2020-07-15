@@ -27,6 +27,7 @@
 * [Intervju](intervju/README.md)
   * [HR Interview](intervju/hr-interview.md)
   * [Tehnički intervju](intervju/tehnicki-intervju.md)
+  * [Izuzeće iz intervjua](intervju/izuzece-iz-intervjua.md)
   * [Povratne informacije](intervju/povratne-informacije.md)
 * [Onboarding](onboarding/README.md)
   * [Uputstva](onboarding/uputstva.md)
